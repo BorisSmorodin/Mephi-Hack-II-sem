@@ -212,4 +212,3 @@ sequenceDiagram
 1. **Jupyter Notebook с EDA, кодом модели и выводами.**
 2. **Файлы модели (model.pkl) и API (app.py).**
 3. **Отчёт с рекомендациями для бизнеса (PDF).**
-```
