@@ -1,0 +1,9 @@
+services:
+  ml_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "11111:11111"
+    container_name: ml_hack_api
+    restart: unless-stopped

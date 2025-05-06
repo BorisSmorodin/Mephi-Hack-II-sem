@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+lightgbm
+xgboost
+catboost
+shap
+numpy
+matplotlib
+imbalanced-learn
+optuna
+sanic
+sanic-ext
+pydantic
